@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+#styleSearch {
+  background-color: rgb(247, 247, 247);
+}
+#styleSearch button {
+  background-color: rgb(247, 247, 247);
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(245, 169, 5);
+}
+#styleSearch button:hover {
+  background-color: rgb(211, 115, 6);
+  color: black;
+}
+#styleSearchOne {
+  background-color: rgb(210, 230, 139);
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+#styleSearchOne button {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(253, 253, 253);
+  background-color: rgb(29, 4, 97);
+}
+#styleSearchOne button:hover {
+  background-color: rgb(211, 115, 6);
+  color: black;
+}
+
+.addbuttonstyle:hover {
+  background-color: rgb(6, 6, 94);
+  color: wheat;
+}
